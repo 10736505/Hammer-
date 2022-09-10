@@ -1,3 +1,3 @@
 # Hammer
 
-Hammer made in maya
+Hammer made in maya.
